@@ -39,8 +39,9 @@ h1 {
 
 }
 .title-img {
-    width: 50%;
-    transform: rotate(30deg);
+    width: 80%;
+    transform: rotate(23deg);
+    padding-left: 12rem;
 }
 .container-fluid {
     
