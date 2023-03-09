@@ -99,3 +99,11 @@ p{
     width:15%;
     margin: 1.2rem 1.2rem 3.2rem;
 }
+#pricing {
+    background-color: #F6E1C3;
+    text-align: center;
+    padding: 4rem 0;
+}
+.pricing-cards {
+    padding: 4rem 0;
+}
