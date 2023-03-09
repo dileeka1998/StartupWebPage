@@ -46,7 +46,7 @@ h1 {
     
 }
 .features-container {
-    padding: 8rem 6rem;
+    padding: 8rem 15rem;
     font-size: 0.7rem;
 }
 
@@ -63,5 +63,5 @@ i:hover {
 
 p{
     color:grey;
-    padding: 0 7rem
+    padding:0 4rem;
 }
