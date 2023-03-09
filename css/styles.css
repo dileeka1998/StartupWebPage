@@ -45,12 +45,15 @@ h2 {
 
 }
 .title-img {
-    width: 80%;
-    transform: rotate(23deg);
+    width: 35%;
+    transform: rotate(30deg);
     padding-left: 12rem;
+    position:absolute;
 }
-.container-fluid {
-    
+#features {
+    background-color: #fff;
+    position:relative;
+    z-index: 1;
 }
 .features-container {
     padding: 8rem 15rem;
