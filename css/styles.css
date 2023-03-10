@@ -50,6 +50,27 @@ h2 {
     padding-left: 12rem;
     position:absolute;
 }
+@media (max-width:1028px) {
+    .title-img {
+        /*width: 35%;*/
+        width: 58%;
+        transform: rotate(0);
+    }
+}
+@media (max-width:991px) {
+    .title-img {
+        /*width: 35%;*/
+        width: 70%;
+        transform: rotate(0);
+        position:static;
+        padding:0;
+
+    }
+    #title {
+        text-align: center;
+     }
+}
+
 #features {
     background-color: #fff;
     position:relative;
